@@ -1,0 +1,3 @@
+print ("hello world")
+print insert ("hello evryone")
+print insert (" vowels")
